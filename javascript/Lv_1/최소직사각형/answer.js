@@ -5,3 +5,5 @@ function solution(sizes) {
 
   return a * b;
 }
+
+// sort
