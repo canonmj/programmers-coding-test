@@ -8,4 +8,5 @@ function solution(numbers) {
   return answer;
 }
 
-// find
+// find 혹은 includes
+// 전체합(45)에서 reduce를 활용해 numbers의 원소를 빼는 풀이도 굿
